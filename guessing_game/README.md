@@ -29,12 +29,12 @@ Make sure you have Rust installed on your system. You can download it from [rust
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Guessing_Game.git
+   git clone git clone https://github.com/shoaib-eth/learn-rust-with-shoaib.eth.git
     ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Guessing_Game
+   cd learn-rust-with-shoaib.eth/guessing_game
     ```
 
 3. Run the game using Cargo:
