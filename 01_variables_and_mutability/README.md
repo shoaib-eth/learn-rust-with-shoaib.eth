@@ -107,7 +107,7 @@ Note: Make sure you have Rust installed on your system. If not, you can install 
 
 1. Clone the repository:
    ```
-   git clone git clone git clone https://github.com/shoaib-eth/learn-rust-with-shoaib.eth.git
+   git clone https://github.com/shoaib-eth/learn-rust-with-shoaib.eth.git
    ```
 2. Navigate to the project directory:
    ```
